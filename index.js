@@ -1,5 +1,5 @@
 const app = require("express")();
-
+app.use('cors')
 app.listen(4000);
 const method = require("./method");
 
