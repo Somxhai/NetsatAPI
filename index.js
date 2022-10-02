@@ -4,6 +4,7 @@ app.use(cors())
 app.listen(4000);
 const method = require("./method");
 
+const engtestPath = require("./NetsatAPI/EngtestAPI/engtest.json")
 const netsatPath = require("./NetsatAPI/netsat.json");
 const details = require("./NetsatAPI/details.json")
 
@@ -11,6 +12,7 @@ app.get("/", (req, res) => {
   const data = {
     ...details,
     netsat_data: netsatPath,
+    engtestPath
   };
   res.status(200).json(data);
 });
@@ -21,6 +23,9 @@ app.get("/details", (req, res) => {
 
 app.get("/netsat", (req, res) => {
   res.status(200).json(netsatPath);
+});
+app.get("/netsat/engtest", (req, res) => {
+  res.status(200).json(engtestPath);
 });
 
 app.get("/:id", (req, res) => {

@@ -1,0 +1,26 @@
+{
+  "engineer": {
+    "TOEFL PB": 494,
+    "TOEFL CB": 167,
+    "TOEFL IB": 59,
+    "TOEFL ITP": 500,
+    "IELTS (AM)": 5,
+    "TOEIC": 550,
+    "CU-TEP": 61,
+    "TU-GET PB": 401,
+    "TU-GET CB": 62,
+    "KEPT": 62,
+    "KKU-AELT": 3.5
+  },
+  "pharmarcy": {
+    "TOEFL PB": 470,
+    "TOEFL CB": 150,
+    "TOEFL IB": 52,
+    "TOEFL ITP": 470,
+    "IELTS (AM)": 5,
+    "TOEIC": 500,
+    "CU-TEP": 60,
+    "TU-GET PB": 500,
+    "KEPT": 62
+  }
+}
