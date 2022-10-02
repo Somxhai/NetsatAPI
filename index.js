@@ -3,7 +3,7 @@ const cors = require("cors");
 app.use(cors());
 const PORT = 4000;
 
-app.listen(PORT, ()=>console.log(`API LISTENING ON PORT ${PORT}`));
+app.listen(PORT, () => console.log(`API LISTENING ON PORT ${PORT}`));
 
 const method = require("./method");
 
@@ -23,12 +23,10 @@ app.get("/", (req, res) => {
 });
 
 app.get("/details", (req, res) => {
-
   res.status(200).json(mergedData);
 });
 
 app.get("/netsat", (req, res) => {
-
   res.status(200).json(netsatPath);
 });
 
