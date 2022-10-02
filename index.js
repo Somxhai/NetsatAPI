@@ -1,10 +1,6 @@
 const app = require("express")();
-const cors = require("cors");
-app.use(cors());
-const PORT = 4000;
 
-app.listen(PORT, () => console.log(`API LISTENING ON PORT ${PORT}`));
-
+app.listen(4000);
 const method = require("./method");
 
 const netsatPath = require("./NetsatAPI/netsat.json");
@@ -34,5 +30,3 @@ app.get("/:id", (req, res) => {
   const id = req.params.id;
   res.status(200).json(method.getSyllabusById(id, netsatPath));
 });
-
-module.exports = app;
