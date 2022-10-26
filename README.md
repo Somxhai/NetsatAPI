@@ -6,6 +6,8 @@
 
 https://netsat-api.vercel.app/
 
+### Netsat score
+
 #### Get all data
 `GET /`
 
@@ -46,6 +48,24 @@ https://netsat-api.vercel.app/
 	...
 	}
 
+### English test score
+
+`GET /netsat/engtest`
+	
+	
+	{
+	  "engineer": {
+		  "TOEFL PB": 494,
+		  "TOEFL CB": 167,
+		  ...
+	},
+	  "pharmarcy": {
+		  "TOEFL PB": 470,
+		  "TOEFL CB": 150,
+		  ...
+	  }
+	}
+	
 
 
 

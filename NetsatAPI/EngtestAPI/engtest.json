@@ -22,5 +22,18 @@
     "CU-TEP": 60,
     "TU-GET PB": 500,
     "KEPT": 62
+  },
+  "businessAndAccountancy": {
+    "TOEFL PB": 500,
+    "TOEFL CB": 170,
+    "TOEFL IB": 65,
+    "IELTS (AM)": 5.5,
+    "TOEIC": 600,
+    "CU-TEP": 70,
+    "TU-GET PB": 500,
+    "TU-GET CB": 70,
+    "KEPT": 62,
+    "KKU-AELT": 4,
+    "Duolingo": 85
   }
 }
