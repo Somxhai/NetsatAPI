@@ -7073,7 +7073,7 @@
     {
         "syllabus": "ดุริยางคศาสตร์บัณฑิต กลุ่มวิชาดนตรีตะวันตก",
         "faculty": "คณะศิลปกรรมศาสตร์",
-        "syllabus_id": 186,
+        "syllabus_id": 187,
 
         "weight": {
             "thai": 10,
@@ -9320,7 +9320,7 @@
     {
         "syllabus": "สาขาวิชานิติศาสตร์",
         "faculty": "คณะสหวิทยาการ",
-        "syllabus_id": 168,
+        "syllabus_id": 1495,
         "has_minimum_score": false,
         "weight": {
             "thai": 40,
