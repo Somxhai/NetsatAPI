@@ -5,12 +5,12 @@
         "syllabus_id": 0,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 35,
-            "sci": 10,
-            "phy": 10,
-            "chem": 10,
-            "bio": 10
+            "science": 10,
+            "physics": 10,
+            "chemistry": 10,
+            "biology": 10
         }
     },
     {
@@ -19,12 +19,12 @@
         "faculty": "คณะวิทยาศาสตร์",
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 15,
-            "sci": 20,
-            "phy": 10,
-            "chem": 25,
-            "bio": 10
+            "science": 20,
+            "physics": 10,
+            "chemistry": 25,
+            "biology": 10
         }
     },
     {
@@ -33,12 +33,12 @@
         "syllabus_id": 2,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -47,12 +47,12 @@
         "syllabus_id": 3,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 10,
-            "sci": 15,
-            "phy": 10,
-            "chem": 20,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 20,
+            "biology": 20
         }
     },
     {
@@ -61,12 +61,12 @@
         "syllabus_id": 4,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -75,12 +75,12 @@
         "syllabus_id": 5,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 15,
-            "sci": 20,
-            "phy": 20,
-            "chem": 15,
-            "bio": 10
+            "science": 20,
+            "physics": 20,
+            "chemistry": 15,
+            "biology": 10
         }
     },
     {
@@ -89,12 +89,12 @@
         "syllabus_id": 6,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 15,
-            "sci": 20,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "science": 20,
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         }
     },
     {
@@ -103,12 +103,12 @@
         "syllabus_id": 7,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 10,
-            "sci": 15,
-            "phy": 10,
-            "chem": 20,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 20,
+            "biology": 20
         }
     },
     {
@@ -117,12 +117,9 @@
         "syllabus_id": 8,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 40,
-            "sci": 40,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 40
         }
     },
     {
@@ -131,12 +128,9 @@
         "syllabus_id": 9,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 40,
-            "sci": 40,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 40
         }
     },
     {
@@ -145,12 +139,12 @@
         "syllabus_id": 10,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -159,12 +153,12 @@
         "syllabus_id": 11,
         "weight": {
             "thai": 15,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 20,
-            "phy": 10,
-            "chem": 10,
-            "bio": 15
+            "science": 20,
+            "physics": 10,
+            "chemistry": 10,
+            "biology": 15
         }
     },
     {
@@ -173,12 +167,12 @@
         "syllabus_id": 12,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -187,12 +181,12 @@
         "syllabus_id": 13,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -201,12 +195,12 @@
         "syllabus_id": 14,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -215,12 +209,12 @@
         "syllabus_id": 15,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -229,12 +223,12 @@
         "syllabus_id": 16,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -243,12 +237,12 @@
         "syllabus_id": 17,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -257,12 +251,12 @@
         "syllabus_id": 18,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 10,
-            "chem": 15,
-            "bio": 20
+            "science": 15,
+            "physics": 10,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -271,12 +265,12 @@
         "syllabus_id": 19,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 25,
-            "sci": 15,
-            "phy": 10,
-            "chem": 10,
-            "bio": 15
+            "science": 15,
+            "physics": 10,
+            "chemistry": 10,
+            "biology": 15
         }
     },
     {
@@ -284,44 +278,12 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 20,
         "weight": {
-            "thai": 0,
-            "eng": 20,
+            "english": 20,
             "math": 30,
-            "sci": 0,
-            "phy": 30,
-            "chem": 0,
-            "bio": 0
+            "physics": 30
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -329,44 +291,12 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 21,
         "weight": {
-            "thai": 0,
-            "eng": 20,
+            "english": 20,
             "math": 30,
-            "sci": 0,
-            "phy": 20,
-            "chem": 0,
-            "bio": 0
+            "physics": 20
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 30,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 30
         }
     },
     {
@@ -375,43 +305,13 @@
         "syllabus_id": 22,
         "weight": {
             "thai": 5,
-            "eng": 10,
+            "english": 10,
             "math": 25,
-            "sci": 0,
-            "phy": 25,
-            "chem": 15,
-            "bio": 0
+            "physics": 25,
+            "chemistry": 15
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -419,48 +319,18 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 23,
         "weight": {
-            "thai": 0,
-            "eng": 16,
+            "english": 16,
             "math": 16,
-            "sci": 16,
-            "phy": 16,
-            "chem": 16,
-            "bio": 0
+            "science": 16,
+            "physics": 16,
+            "chemistry": 16
         },
         "minimum_score": {
-            "eng": 25,
+            "english": 25,
             "math": 20
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -468,44 +338,13 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 24,
         "weight": {
-            "thai": 0,
-            "eng": 10,
+            "english": 10,
             "math": 25,
-            "sci": 0,
-            "phy": 25,
-            "chem": 10,
-            "bio": 0
+            "physics": 25,
+            "chemistry": 10
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 30,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 30
         }
     },
     {
@@ -513,48 +352,15 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 25,
         "weight": {
-            "thai": 0,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "sci": 0,
-            "phy": 30,
-            "chem": 0,
-            "bio": 0
+            "physics": 30
         },
-        
         "minimum_score": {
             "math": 30
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 10,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 10
         }
     },
     {
@@ -562,48 +368,15 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 26,
         "weight": {
-            "thai": 0,
-            "eng": 20,
+            "english": 20,
             "math": 30,
-            "sci": 0,
-            "phy": 30,
-            "chem": 0,
-            "bio": 0
+            "physics": 30
         },
-        
         "minimum_score": {
             "math": 30
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -611,44 +384,12 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 27,
         "weight": {
-            "thai": 0,
-            "eng": 10,
+            "english": 10,
             "math": 35,
-            "sci": 0,
-            "phy": 35,
-            "chem": 0,
-            "bio": 0
+            "physics": 35
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -657,43 +398,13 @@
         "syllabus_id": 28,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 20,
-            "sci": 20,
-            "phy": 20,
-            "chem": 0,
-            "bio": 0
+            "science": 20,
+            "physics": 20
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -702,43 +413,12 @@
         "syllabus_id": 29,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 30,
-            "sci": 0,
-            "phy": 30,
-            "chem": 0,
-            "bio": 0
+            "physics": 30
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -746,48 +426,16 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 30,
         "weight": {
-            "thai": 0,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "sci": 0,
-            "phy": 20,
-            "chem": 0,
-            "bio": 0
+            "physics": 20
         },
         "minimum_score": {
-            "eng": 20,
+            "english": 20,
             "math": 20
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -795,48 +443,16 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 31,
         "weight": {
-            "thai": 0,
-            "eng": 15,
+            "english": 15,
             "math": 25,
-            "sci": 0,
-            "phy": 25,
-            "chem": 15,
-            "bio": 0
+            "physics": 25,
+            "chemistry": 15
         },
-        
         "minimum_score": {
             "math": 20
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 20,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 20
         }
     },
     {
@@ -844,44 +460,12 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 32,
         "weight": {
-            "thai": 0,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "sci": 0,
-            "phy": 30,
-            "chem": 0,
-            "bio": 0
+            "physics": 30
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 10,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 10
         }
     },
     {
@@ -889,44 +473,12 @@
         "faculty": "คณะวิศวกรรมศาสตร์",
         "syllabus_id": 33,
         "weight": {
-            "thai": 0,
-            "eng": 25,
+            "english": 25,
             "math": 25,
-            "sci": 0,
-            "phy": 25,
-            "chem": 0,
-            "bio": 0
+            "physics": 25
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 25,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
-            }
+            "engineer": 25
         }
     },
     {
@@ -935,42 +487,12 @@
         "syllabus_id": 34,
         "weight": {
             "thai": 20,
-            "eng": 20,
-            "math": 10,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 20,
+            "math": 10
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
             "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 50,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "music": 50
             }
         }
     },
@@ -980,12 +502,7 @@
         "syllabus_id": 35,
         "weight": {
             "thai": 10,
-            "eng": 90,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 90
         }
     },
     {
@@ -994,42 +511,12 @@
         "syllabus_id": 36,
         "weight": {
             "thai": 20,
-            "eng": 20,
-            "math": 20,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 20,
+            "math": 20
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 40,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 40
             }
         }
     },
@@ -1039,17 +526,13 @@
         "syllabus_id": 37,
         "minimum_score": {
             "thai": 30,
-            "eng": 25,
+            "english": 25,
             "math": 20
         },
         "weight": {
             "thai": 65,
-            "eng": 30,
-            "math": 5,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30,
+            "math": 5
         }
     },
     {
@@ -1058,12 +541,9 @@
         "syllabus_id": 38,
         "weight": {
             "thai": 20,
-            "eng": 20,
+            "english": 20,
             "math": 40,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         }
     },
     {
@@ -1072,12 +552,9 @@
         "syllabus_id": 39,
         "weight": {
             "thai": 20,
-            "eng": 25,
+            "english": 25,
             "math": 25,
-            "sci": 30,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 30
         }
     },
     {
@@ -1086,42 +563,13 @@
         "syllabus_id": 40,
         "weight": {
             "thai": 15,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
             "education": {
-                "body": 20,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "body": 20
             }
         }
     },
@@ -1130,19 +578,19 @@
         "faculty": "คณะศึกษาศาสตร์",
         "syllabus_id": 41,
         "minimum_score": {
-            "sci": 25,
-            "phy": 25,
-            "chem": 25,
-            "bio": 25
+            "science": 25,
+            "physics": 25,
+            "chemistry": 25,
+            "biology": 25
         },
         "weight": {
             "thai": 15,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 19,
-            "phy": 7,
-            "chem": 7,
-            "bio": 7
+            "science": 19,
+            "physics": 7,
+            "chemistry": 7,
+            "biology": 7
         }
     },
     {
@@ -1151,42 +599,12 @@
         "syllabus_id": 42,
         "weight": {
             "thai": 30,
-            "eng": 20,
-            "math": 10,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 20,
+            "math": 10
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
             "education": {
-                "body": 0,
                 "goodatart": 40
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
             }
         }
     },
@@ -1196,12 +614,9 @@
         "syllabus_id": 43,
         "weight": {
             "thai": 20,
-            "eng": 35,
+            "english": 35,
             "math": 15,
-            "sci": 30,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 30
         }
     },
     {
@@ -1210,12 +625,9 @@
         "syllabus_id": 168,
         "weight": {
             "thai": 25,
-            "eng": 25,
+            "english": 25,
             "math": 25,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         }
     },
     {
@@ -1224,12 +636,11 @@
         "syllabus_id": 44,
         "weight": {
             "thai": 10,
-            "eng": 20,
+            "english": 20,
             "math": 20,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 20
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 20
         }
     },
     {
@@ -1239,20 +650,19 @@
         "syllabus_id": 45,
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         },
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         }
     },
     {
@@ -1261,21 +671,20 @@
         "syllabus_id": 46,
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         },
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         }
     },
     {
@@ -1285,20 +694,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1307,20 +715,19 @@
         "syllabus_id": 48,
         "minimum_score": {
             "thai": 20,
-            "eng": 20,
-            "chem": 20,
-            "phy": 30,
+            "english": 20,
+            "chemistry": 20,
+            "physics": 30,
             "math": 30,
-            "bio": 30
+            "biology": 30
         },
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 0,
-            "phy": 22.5,
-            "chem": 15,
-            "bio": 22.5
+            "physics": 22.5,
+            "chemistry": 15,
+            "biology": 22.5
         }
     },
     {
@@ -1329,39 +736,10 @@
         "syllabus_id": 49,
         "weight": {
             "thai": 10,
-            "eng": 15,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 15,
+            "science": 25
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
             "medical_vision": {
                 "techmed": 25,
                 "artmed": 25
@@ -1375,20 +753,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1398,20 +775,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1421,20 +797,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1444,20 +819,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1467,20 +841,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1490,20 +863,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1513,20 +885,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1536,20 +907,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1559,20 +929,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1582,20 +951,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1605,20 +973,19 @@
         "minimum_sum": 50,
         "weight": {
             "thai": 10,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -1627,12 +994,8 @@
         "syllabus_id": 50,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 40,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30,
+            "math": 40
         }
     },
     {
@@ -1641,12 +1004,7 @@
         "syllabus_id": 51,
         "weight": {
             "thai": 50,
-            "eng": 50,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 50
         }
     },
     {
@@ -1655,42 +1013,11 @@
         "syllabus_id": 52,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 40,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "french": 40
             }
         }
     },
@@ -1700,42 +1027,11 @@
         "syllabus_id": 53,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 40,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "german": 40
             }
         }
     },
@@ -1745,42 +1041,11 @@
         "syllabus_id": 54,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 40,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 40
             }
         }
     },
@@ -1790,42 +1055,11 @@
         "syllabus_id": 55,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 40,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 40
             }
         }
     },
@@ -1835,42 +1069,11 @@
         "syllabus_id": 56,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 40
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "korean": 40
             }
         }
     },
@@ -1880,42 +1083,11 @@
         "syllabus_id": 180,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 40,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "spainish": 40
             }
         }
     },
@@ -1925,12 +1097,7 @@
         "syllabus_id": 57,
         "weight": {
             "thai": 50,
-            "eng": 50,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 50
         }
     },
     {
@@ -1939,12 +1106,8 @@
         "syllabus_id": 58,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 40,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30,
+            "math": 40
         }
     },
     {
@@ -1953,42 +1116,11 @@
         "syllabus_id": 59,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 40,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "french": 40
             }
         }
     },
@@ -1998,42 +1130,11 @@
         "syllabus_id": 60,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 40,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 40
             }
         }
     },
@@ -2043,42 +1144,11 @@
         "syllabus_id": 61,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 40,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 40
             }
         }
     },
@@ -2088,42 +1158,11 @@
         "syllabus_id": 62,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 40
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "korean": 40
             }
         }
     },
@@ -2133,42 +1172,11 @@
         "syllabus_id": 63,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 40,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "spainish": 40
             }
         }
     },
@@ -2178,42 +1186,11 @@
         "syllabus_id": 181,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 40,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "german": 40
             }
         }
     },
@@ -2223,12 +1200,7 @@
         "syllabus_id": 64,
         "weight": {
             "thai": 50,
-            "eng": 50,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 50
         }
     },
     {
@@ -2237,42 +1209,11 @@
         "syllabus_id": 65,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 40,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "spainish": 40
             }
         }
     },
@@ -2282,42 +1223,11 @@
         "syllabus_id": 66,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 40,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "french": 40
             }
         }
     },
@@ -2327,12 +1237,8 @@
         "syllabus_id": 67,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 40,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30,
+            "math": 40
         }
     },
     {
@@ -2341,42 +1247,11 @@
         "syllabus_id": 68,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 40,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 40
             }
         }
     },
@@ -2386,42 +1261,11 @@
         "syllabus_id": 69,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 40,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 40
             }
         }
     },
@@ -2431,42 +1275,11 @@
         "syllabus_id": 70,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 40
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "korean": 40
             }
         }
     },
@@ -2476,42 +1289,11 @@
         "syllabus_id": 182,
         "weight": {
             "thai": 30,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 40,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "german": 40
             }
         }
     },
@@ -2521,42 +1303,11 @@
         "syllabus_id": 71,
         "weight": {
             "thai": 20,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 40,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 40
             }
         }
     },
@@ -2566,42 +1317,11 @@
         "syllabus_id": 72,
         "weight": {
             "thai": 20,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 40,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 40
             }
         }
     },
@@ -2611,42 +1331,11 @@
         "syllabus_id": 73,
         "weight": {
             "thai": 20,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 40,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 40
             }
         }
     },
@@ -2656,42 +1345,11 @@
         "syllabus_id": 74,
         "weight": {
             "thai": 20,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 40
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "korean": 40
             }
         }
     },
@@ -2701,12 +1359,7 @@
         "syllabus_id": 75,
         "weight": {
             "thai": 20,
-            "eng": 80,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 80
         }
     },
     {
@@ -2715,12 +1368,7 @@
         "syllabus_id": 76,
         "weight": {
             "thai": 60,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         }
     },
     {
@@ -2729,12 +1377,8 @@
         "syllabus_id": 77,
         "weight": {
             "thai": 50,
-            "eng": 30,
-            "math": 20,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30,
+            "math": 20
         }
     },
     {
@@ -2743,42 +1387,11 @@
         "syllabus_id": 78,
         "weight": {
             "thai": 50,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 20,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "french": 20
             }
         }
     },
@@ -2788,42 +1401,11 @@
         "syllabus_id": 79,
         "weight": {
             "thai": 50,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 20,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "german": 20
             }
         }
     },
@@ -2833,42 +1415,11 @@
         "syllabus_id": 80,
         "weight": {
             "thai": 50,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 20,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 20
             }
         }
     },
@@ -2878,42 +1429,11 @@
         "syllabus_id": 81,
         "weight": {
             "thai": 50,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 20,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 20
             }
         }
     },
@@ -2923,42 +1443,11 @@
         "syllabus_id": 82,
         "weight": {
             "thai": 50,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 20,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "spainish": 20
             }
         }
     },
@@ -2968,42 +1457,11 @@
         "syllabus_id": 183,
         "weight": {
             "thai": 50,
-            "eng": 30,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 30
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 20
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "korean": 20
             }
         }
     },
@@ -3013,12 +1471,7 @@
         "syllabus_id": 83,
         "weight": {
             "thai": 50,
-            "eng": 50,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 50
         }
     },
     {
@@ -3027,12 +1480,8 @@
         "syllabus_id": 84,
         "weight": {
             "thai": 40,
-            "eng": 40,
-            "math": 20,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40,
+            "math": 20
         }
     },
     {
@@ -3041,42 +1490,11 @@
         "syllabus_id": 85,
         "weight": {
             "thai": 40,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 20,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "french": 20
             }
         }
     },
@@ -3086,42 +1504,11 @@
         "syllabus_id": 86,
         "weight": {
             "thai": 40,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 20,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "german": 20
             }
         }
     },
@@ -3131,42 +1518,11 @@
         "syllabus_id": 87,
         "weight": {
             "thai": 40,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 20,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 20
             }
         }
     },
@@ -3176,42 +1532,11 @@
         "syllabus_id": 88,
         "weight": {
             "thai": 40,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 20,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 20
             }
         }
     },
@@ -3221,42 +1546,11 @@
         "syllabus_id": 89,
         "weight": {
             "thai": 40,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 20
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "korean": 20
             }
         }
     },
@@ -3266,42 +1560,11 @@
         "syllabus_id": 184,
         "weight": {
             "thai": 40,
-            "eng": 40,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 40
         },
         "specific_capability": {
             "foreign": {
-                "sp": 20,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "spainish": 20
             }
         }
     },
@@ -3311,12 +1574,9 @@
         "syllabus_id": 90,
         "weight": {
             "thai": 25,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 30,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 30
         }
     },
     {
@@ -3325,12 +1585,9 @@
         "syllabus_id": 91,
         "weight": {
             "thai": 40,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         }
     },
     {
@@ -3339,12 +1596,9 @@
         "syllabus_id": 92,
         "weight": {
             "thai": 40,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         }
     },
     {
@@ -3353,12 +1607,9 @@
         "syllabus_id": 93,
         "weight": {
             "thai": 30,
-            "eng": 40,
+            "english": 40,
             "math": 15,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         }
     },
     {
@@ -3366,16 +1617,16 @@
         "faculty": "คณะเทคนิคการแพทย์",
         "syllabus_id": 94,
         "minimum_score": {
-            "eng": 30
+            "english": 30
         },
         "weight": {
             "thai": 10,
-            "eng": 20,
+            "english": 20,
             "math": 20,
-            "sci": 10,
-            "phy": 15,
-            "chem": 5,
-            "bio": 20
+            "science": 10,
+            "physics": 15,
+            "chemistry": 5,
+            "biology": 20
         }
     },
     {
@@ -3383,16 +1634,16 @@
         "faculty": "คณะเทคนิคการแพทย์",
         "syllabus_id": 95,
         "minimum_score": {
-            "eng": 30
+            "english": 30
         },
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 10,
-            "sci": 10,
-            "phy": 10,
-            "chem": 25,
-            "bio": 25
+            "science": 10,
+            "physics": 10,
+            "chemistry": 25,
+            "biology": 25
         }
     },
     {
@@ -3401,12 +1652,12 @@
         "syllabus_id": 96,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "science": 15,
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         }
     },
     {
@@ -3415,12 +1666,12 @@
         "syllabus_id": 97,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "science": 15,
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         }
     },
     {
@@ -3429,12 +1680,12 @@
         "syllabus_id": 98,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "science": 15,
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         }
     },
     {
@@ -3443,21 +1694,20 @@
         "syllabus_id": 99,
         "weight": {
             "thai": 12,
-            "eng": 25,
+            "english": 25,
             "math": 20,
-            "sci": 0,
-            "phy": 13,
-            "chem": 15,
-            "bio": 15
+            "physics": 13,
+            "chemistry": 15,
+            "biology": 15
         },
         "minimum_sum": 50,
         "minimum_score": {
             "thai": 30,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "phy": 30,
-            "chem": 30,
-            "bio": 30
+            "physics": 30,
+            "chemistry": 30,
+            "biology": 30
         }
     },
     {
@@ -3466,12 +1716,11 @@
         "syllabus_id": 100,
         "weight": {
             "thai": 15,
-            "eng": 25,
+            "english": 25,
             "math": 15,
-            "sci": 0,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         }
     },
     {
@@ -3480,12 +1729,11 @@
         "syllabus_id": 101,
         "weight": {
             "thai": 10,
-            "eng": 20,
+            "english": 20,
             "math": 10,
-            "sci": 0,
-            "phy": 15,
-            "chem": 25,
-            "bio": 20
+            "physics": 15,
+            "chemistry": 25,
+            "biology": 20
         }
     },
     {
@@ -3494,12 +1742,11 @@
         "syllabus_id": 102,
         "weight": {
             "thai": 10,
-            "eng": 20,
+            "english": 20,
             "math": 10,
-            "sci": 0,
-            "phy": 15,
-            "chem": 25,
-            "bio": 20
+            "physics": 15,
+            "chemistry": 25,
+            "biology": 20
         }
     },
     {
@@ -3508,12 +1755,11 @@
         "syllabus_id": 103,
         "weight": {
             "thai": 10,
-            "eng": 20,
+            "english": 20,
             "math": 10,
-            "sci": 0,
-            "phy": 15,
-            "chem": 25,
-            "bio": 20
+            "physics": 15,
+            "chemistry": 25,
+            "biology": 20
         }
     },
     {
@@ -3522,19 +1768,17 @@
         "syllabus_id": 104,
         "minimum_score": {
             "thai": 30,
-            "eng": 25,
+            "english": 25,
             "math": 25,
-            "sci": 25,
-            "phy": 25
+            "science": 25,
+            "physics": 25
         },
         "weight": {
             "thai": 20,
-            "eng": 20,
+            "english": 20,
             "math": 20,
-            "sci": 20,
-            "phy": 20,
-            "chem": 0,
-            "bio": 0
+            "science": 20,
+            "physics": 20
         }
     },
     {
@@ -3543,17 +1787,17 @@
         "syllabus_id": 105,
         "minimum_score": {
             "thai": 30,
-            "eng": 25,
-            "bio": 25
+            "english": 25,
+            "biology": 25
         },
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 15,
-            "phy": 15,
-            "chem": 15,
-            "bio": 15
+            "science": 15,
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 15
         }
     },
     {
@@ -3562,21 +1806,21 @@
         "syllabus_id": 106,
         "minimum_score": {
             "thai": 15,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 20,
-            "phy": 15,
-            "chem": 20,
-            "bio": 20
+            "science": 20,
+            "physics": 15,
+            "chemistry": 20,
+            "biology": 20
         },
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 20,
-            "sci": 10,
-            "phy": 10,
-            "chem": 20,
-            "bio": 20
+            "science": 10,
+            "physics": 10,
+            "chemistry": 20,
+            "biology": 20
         }
     },
     {
@@ -3585,21 +1829,21 @@
         "syllabus_id": 107,
         "minimum_score": {
             "thai": 20,
-            "eng": 20,
+            "english": 20,
             "math": 15,
-            "sci": 20,
-            "phy": 15,
-            "chem": 20,
-            "bio": 20
+            "science": 20,
+            "physics": 15,
+            "chemistry": 20,
+            "biology": 20
         },
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 15,
-            "sci": 20,
-            "phy": 15,
-            "chem": 15,
-            "bio": 10
+            "science": 20,
+            "physics": 15,
+            "chemistry": 15,
+            "biology": 10
         }
     },
     {
@@ -3607,43 +1851,14 @@
         "faculty": "คณะสถาปัตยกรรมศาสตร์",
         "syllabus_id": 108,
         "weight": {
-            "thai": 0,
-            "eng": 15,
+            "english": 15,
             "math": 20,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
             "architect": {
-                "arch": 40,
+                "architect": 40,
                 "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
             }
         }
     },
@@ -3652,43 +1867,13 @@
         "faculty": "คณะสถาปัตยกรรมศาสตร์",
         "syllabus_id": 109,
         "weight": {
-            "thai": 0,
-            "eng": 10,
+            "english": 10,
             "math": 25,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
             "architect": {
-                "arch": 0,
                 "design": 40
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
             }
         }
     },
@@ -3698,12 +1883,9 @@
         "syllabus_id": 110,
         "weight": {
             "thai": 25,
-            "eng": 25,
+            "english": 25,
             "math": 25,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         }
     },
     {
@@ -3712,12 +1894,9 @@
         "syllabus_id": 111,
         "weight": {
             "thai": 20,
-            "eng": 35,
+            "english": 35,
             "math": 35,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         }
     },
     {
@@ -3726,12 +1905,9 @@
         "syllabus_id": 112,
         "weight": {
             "thai": 25,
-            "eng": 30,
+            "english": 30,
             "math": 25,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         }
     },
     {
@@ -3740,12 +1916,9 @@
         "syllabus_id": 113,
         "weight": {
             "thai": 25,
-            "eng": 35,
+            "english": 35,
             "math": 25,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         }
     },
     {
@@ -3754,12 +1927,9 @@
         "syllabus_id": 114,
         "weight": {
             "thai": 25,
-            "eng": 25,
+            "english": 25,
             "math": 25,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         }
     },
     {
@@ -3768,12 +1938,9 @@
         "syllabus_id": 115,
         "weight": {
             "thai": 10,
-            "eng": 40,
+            "english": 40,
             "math": 40,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         }
     },
     {
@@ -3782,12 +1949,8 @@
         "syllabus_id": 116,
         "weight": {
             "thai": 35,
-            "eng": 35,
-            "math": 30,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "math": 30
         }
     },
     {
@@ -3796,12 +1959,9 @@
         "syllabus_id": 117,
         "weight": {
             "thai": 25,
-            "eng": 40,
+            "english": 40,
             "math": 25,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         }
     },
     {
@@ -3810,12 +1970,9 @@
         "syllabus_id": 118,
         "weight": {
             "thai": 25,
-            "eng": 40,
+            "english": 40,
             "math": 25,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         }
     },
     {
@@ -3824,12 +1981,9 @@
         "syllabus_id": 186,
         "weight": {
             "thai": 20,
-            "eng": 40,
+            "english": 40,
             "math": 25,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         }
     },
     {
@@ -3838,12 +1992,9 @@
         "syllabus_id": 119,
         "weight": {
             "thai": 25,
-            "eng": 25,
+            "english": 25,
             "math": 25,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         }
     },
     {
@@ -3852,42 +2003,14 @@
         "syllabus_id": 120,
         "weight": {
             "thai": 15,
-            "eng": 10,
+            "english": 10,
             "math": 10,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
             "fine_arts": {
                 "drawing": 25,
-                "makeup": 25,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "makeup": 25
             }
         }
     },
@@ -3897,42 +2020,14 @@
         "syllabus_id": 121,
         "weight": {
             "thai": 15,
-            "eng": 10,
+            "english": 10,
             "math": 10,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
             "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 25,
-                "vart": 25,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "draw_communication": 25,
+                "visual_art": 25
             }
         }
     },
@@ -3942,42 +2037,13 @@
         "syllabus_id": 122,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 10,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
             "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 60,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "music": 60
             }
         }
     },
@@ -3987,42 +2053,13 @@
         "syllabus_id": 185,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 10,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
             "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 60,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "music": 60
             }
         }
     },
@@ -4032,42 +2069,13 @@
         "syllabus_id": 187,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 10,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
             "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 60,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "music": 60
             }
         }
     },
@@ -4077,42 +2085,13 @@
         "syllabus_id": 123,
         "weight": {
             "thai": 15,
-            "eng": 10,
+            "english": 10,
             "math": 10,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         },
         "specific_capability": {
-            "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
             "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
                 "dance": 50
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
             }
         }
     },
@@ -4121,16 +2100,11 @@
         "faculty": "วิทยาลัยนานาชาติ",
         "syllabus_id": 124,
         "minimum_score": {
-            "eng": 20
+            "english": 20
         },
         "weight": {
-            "thai": 0,
-            "eng": 80,
-            "math": 20,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 80,
+            "math": 20
         }
     },
     {
@@ -4138,16 +2112,10 @@
         "faculty": "วิทยาลัยนานาชาติ",
         "syllabus_id": 125,
         "minimum_score": {
-            "eng": 25
+            "english": 25
         },
         "weight": {
-            "thai": 0,
-            "eng": 100,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 100
         }
     },
     {
@@ -4155,16 +2123,10 @@
         "faculty": "วิทยาลัยนานาชาติ",
         "syllabus_id": 126,
         "minimum_score": {
-            "eng": 20
+            "english": 20
         },
         "weight": {
-            "thai": 0,
-            "eng": 100,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 100
         }
     },
     {
@@ -4172,16 +2134,10 @@
         "faculty": "วิทยาลัยนานาชาติ",
         "syllabus_id": 127,
         "minimum_score": {
-            "eng": 20
+            "english": 20
         },
         "weight": {
-            "thai": 0,
-            "eng": 100,
-            "math": 0,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 100
         }
     },
     {
@@ -4189,17 +2145,12 @@
         "faculty": "วิทยาลัยนานาชาติ",
         "syllabus_id": 128,
         "minimum_score": {
-            "eng": 20,
+            "english": 20,
             "math": 20
         },
         "weight": {
-            "thai": 0,
-            "eng": 70,
-            "math": 30,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 70,
+            "math": 30
         }
     },
     {
@@ -4207,17 +2158,12 @@
         "faculty": "วิทยาลัยนานาชาติ",
         "syllabus_id": 129,
         "minimum_score": {
-            "eng": 20,
+            "english": 20,
             "math": 20
         },
         "weight": {
-            "thai": 0,
-            "eng": 70,
-            "math": 30,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 70,
+            "math": 30
         }
     },
     {
@@ -4225,17 +2171,12 @@
         "faculty": "วิทยาลัยนานาชาติ",
         "syllabus_id": 130,
         "minimum_score": {
-            "eng": 20,
+            "english": 20,
             "math": 20
         },
         "weight": {
-            "thai": 0,
-            "eng": 70,
-            "math": 30,
-            "sci": 0,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 70,
+            "math": 30
         }
     },
     {
@@ -4243,16 +2184,12 @@
         "faculty": "คณะเศรษฐศาสตร์",
         "syllabus_id": 131,
         "weight": {
-            "thai": 0,
-            "eng": 50,
+            "english": 50,
             "math": 30,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         },
         "minimum_score": {
-            "eng": 15,
+            "english": 15,
             "math": 15
         }
     },
@@ -4261,16 +2198,12 @@
         "faculty": "คณะเศรษฐศาสตร์",
         "syllabus_id": 132,
         "weight": {
-            "thai": 0,
-            "eng": 50,
+            "english": 50,
             "math": 30,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         },
         "minimum_score": {
-            "eng": 30,
+            "english": 30,
             "math": 15
         }
     },
@@ -4280,12 +2213,9 @@
         "syllabus_id": 133,
         "weight": {
             "thai": 20,
-            "eng": 35,
+            "english": 35,
             "math": 20,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         }
     },
     {
@@ -4294,42 +2224,12 @@
         "syllabus_id": 134,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 20,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "french": 20
             }
         }
     },
@@ -4339,42 +2239,12 @@
         "syllabus_id": 135,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 20,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "german": 20
             }
         }
     },
@@ -4384,42 +2254,12 @@
         "syllabus_id": 136,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 20,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 20
             }
         }
     },
@@ -4429,42 +2269,12 @@
         "syllabus_id": 137,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 20,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 20
             }
         }
     },
@@ -4474,12 +2284,9 @@
         "syllabus_id": 138,
         "weight": {
             "thai": 20,
-            "eng": 35,
+            "english": 35,
             "math": 20,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         }
     },
     {
@@ -4488,42 +2295,12 @@
         "syllabus_id": 139,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 20,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "french": 20
             }
         }
     },
@@ -4533,42 +2310,12 @@
         "syllabus_id": 140,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 20,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "german": 20
             }
         }
     },
@@ -4578,42 +2325,12 @@
         "syllabus_id": 141,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 20,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 20
             }
         }
     },
@@ -4623,42 +2340,12 @@
         "syllabus_id": 142,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 20,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 20
             }
         }
     },
@@ -4668,12 +2355,9 @@
         "syllabus_id": 143,
         "weight": {
             "thai": 20,
-            "eng": 35,
+            "english": 35,
             "math": 20,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         }
     },
     {
@@ -4682,42 +2366,12 @@
         "syllabus_id": 144,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 20,
-                "gr": 0,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "french": 20
             }
         }
     },
@@ -4727,42 +2381,12 @@
         "syllabus_id": 145,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 20,
-                "cn": 0,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "german": 20
             }
         }
     },
@@ -4772,42 +2396,12 @@
         "syllabus_id": 146,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 20,
-                "jp": 0,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "chinese": 20
             }
         }
     },
@@ -4817,42 +2411,12 @@
         "syllabus_id": 147,
         "weight": {
             "thai": 20,
-            "eng": 35,
-            "math": 0,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "english": 35,
+            "science": 25
         },
         "specific_capability": {
             "foreign": {
-                "sp": 0,
-                "fr": 0,
-                "gr": 0,
-                "cn": 0,
-                "jp": 20,
-                "kr": 0
-            },
-            "fine_arts": {
-                "drawing": 0,
-                "makeup": 0,
-                "drawcom": 0,
-                "vart": 0,
-                "music": 0,
-                "dance": 0
-            },
-            "engineer": 0,
-            "architect": {
-                "arch": 0,
-                "design": 0
-            },
-            "education": {
-                "body": 0,
-                "goodatart": 0
-            },
-            "medical_vision": {
-                "techmed": 0,
-                "artmed": 0
+                "japanese": 20
             }
         }
     },
@@ -4862,12 +2426,10 @@
         "syllabus_id": 148,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 20,
-            "sci": 40,
-            "phy": 20,
-            "chem": 0,
-            "bio": 0
+            "science": 40,
+            "physics": 20
         }
     },
     {
@@ -4876,12 +2438,10 @@
         "syllabus_id": 149,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 20,
-            "sci": 40,
-            "phy": 20,
-            "chem": 0,
-            "bio": 0
+            "science": 40,
+            "physics": 20
         }
     },
     {
@@ -4890,12 +2450,10 @@
         "syllabus_id": 150,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 20,
-            "sci": 45,
-            "phy": 15,
-            "chem": 0,
-            "bio": 0
+            "science": 45,
+            "physics": 15
         }
     },
     {
@@ -4904,12 +2462,10 @@
         "syllabus_id": 151,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 20,
-            "sci": 45,
-            "phy": 15,
-            "chem": 0,
-            "bio": 0
+            "science": 45,
+            "physics": 15
         }
     },
     {
@@ -4918,12 +2474,10 @@
         "syllabus_id": 152,
         "weight": {
             "thai": 5,
-            "eng": 15,
+            "english": 15,
             "math": 25,
-            "sci": 40,
-            "phy": 15,
-            "chem": 0,
-            "bio": 0
+            "science": 40,
+            "physics": 15
         }
     },
     {
@@ -4932,12 +2486,10 @@
         "syllabus_id": 153,
         "weight": {
             "thai": 5,
-            "eng": 15,
+            "english": 15,
             "math": 25,
-            "sci": 40,
-            "phy": 15,
-            "chem": 0,
-            "bio": 0
+            "science": 40,
+            "physics": 15
         }
     },
     {
@@ -4946,12 +2498,9 @@
         "syllabus_id": 154,
         "weight": {
             "thai": 20,
-            "eng": 40,
+            "english": 40,
             "math": 20,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         }
     },
     {
@@ -4960,12 +2509,9 @@
         "syllabus_id": 155,
         "weight": {
             "thai": 20,
-            "eng": 60,
+            "english": 60,
             "math": 10,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         }
     },
     {
@@ -4974,12 +2520,10 @@
         "syllabus_id": 156,
         "weight": {
             "thai": 20,
-            "eng": 10,
+            "english": 10,
             "math": 20,
-            "sci": 0,
-            "phy": 0,
-            "chem": 15,
-            "bio": 35
+            "chemistry": 15,
+            "biology": 35
         }
     },
     {
@@ -4988,12 +2532,11 @@
         "syllabus_id": 157,
         "weight": {
             "thai": 10,
-            "eng": 10,
+            "english": 10,
             "math": 20,
-            "sci": 20,
-            "phy": 0,
-            "chem": 20,
-            "bio": 20
+            "science": 20,
+            "chemistry": 20,
+            "biology": 20
         }
     },
     {
@@ -5002,12 +2545,9 @@
         "syllabus_id": 158,
         "weight": {
             "thai": 20,
-            "eng": 40,
+            "english": 40,
             "math": 20,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         }
     },
     {
@@ -5016,12 +2556,9 @@
         "syllabus_id": 159,
         "weight": {
             "thai": 20,
-            "eng": 40,
+            "english": 40,
             "math": 20,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         }
     },
     {
@@ -5030,12 +2567,9 @@
         "syllabus_id": 160,
         "weight": {
             "thai": 20,
-            "eng": 30,
+            "english": 30,
             "math": 30,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         }
     },
     {
@@ -5044,12 +2578,9 @@
         "syllabus_id": 161,
         "weight": {
             "thai": 30,
-            "eng": 60,
+            "english": 60,
             "math": 5,
-            "sci": 5,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 5
         }
     },
     {
@@ -5058,12 +2589,9 @@
         "syllabus_id": 162,
         "weight": {
             "thai": 40,
-            "eng": 30,
+            "english": 30,
             "math": 15,
-            "sci": 15,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 15
         }
     },
     {
@@ -5072,12 +2600,9 @@
         "syllabus_id": 163,
         "weight": {
             "thai": 25,
-            "eng": 25,
+            "english": 25,
             "math": 30,
-            "sci": 20,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 20
         }
     },
     {
@@ -5086,12 +2611,9 @@
         "syllabus_id": 164,
         "weight": {
             "thai": 20,
-            "eng": 25,
+            "english": 25,
             "math": 30,
-            "sci": 25,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 25
         }
     },
     {
@@ -5100,12 +2622,11 @@
         "syllabus_id": 165,
         "weight": {
             "thai": 15,
-            "eng": 15,
+            "english": 15,
             "math": 10,
-            "sci": 30,
-            "phy": 10,
-            "chem": 0,
-            "bio": 20
+            "science": 30,
+            "physics": 10,
+            "biology": 20
         }
     },
     {
@@ -5114,12 +2635,10 @@
         "syllabus_id": 166,
         "weight": {
             "thai": 10,
-            "eng": 15,
+            "english": 15,
             "math": 25,
-            "sci": 0,
-            "phy": 0,
-            "chem": 25,
-            "bio": 25
+            "chemistry": 25,
+            "biology": 25
         }
     },
     {
@@ -5128,12 +2647,9 @@
         "syllabus_id": 167,
         "weight": {
             "thai": 40,
-            "eng": 30,
+            "english": 30,
             "math": 20,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         }
     },
     {
@@ -5142,12 +2658,9 @@
         "syllabus_id": 188,
         "weight": {
             "thai": 40,
-            "eng": 40,
+            "english": 40,
             "math": 10,
-            "sci": 10,
-            "phy": 0,
-            "chem": 0,
-            "bio": 0
+            "science": 10
         }
     }
 ]
